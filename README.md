@@ -1,2 +1,2 @@
-# GAN
-A hello world type GAN.
+# Daedalus
+Generate mazes with Autoencoders and GANs
